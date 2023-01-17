@@ -1,1 +1,3 @@
-Chtěla jsem si dát na Memrise kurz na němčinu a hledala jsem, kde bych k němu mohla ukrást výslovnost. Našla jsem ji na Leo dictionary, ale dělat to ručně je hrozný opruz.. Ještě že existuje Python.
+I needed pronunciation of given german words to learn, however to download it manually is not work for a human. This program downloads it from the Leo dictionary.
+
+Uses Python and geckodriver to browse web and download.
